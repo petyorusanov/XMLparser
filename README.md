@@ -1,3 +1,3 @@
 # XMLparser
 
-Project description can be found in 
+Описанието на проекта се намира във файла XMLparser.docx
