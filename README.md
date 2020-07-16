@@ -37,16 +37,16 @@ xpath <id> <XPath> - операции за изпълнение на прост�
 Минимални изисквания за поддържаните XPath заявки
 Примерите по-долу са върху следния прост XML низ:
 
-<people>
-  <person id=”0”>
-    <name>John Smith</name>
-     <address>USA</address>
-  </person>
-  <person id=”1”>
-    <name>Ivan Petrov</name>
-     <address>Bulgaria</address>
-  </person>
-</people>
+-<people>
+  -<person id=”0”>
+    -<name>John Smith</name>
+     -<address>USA</address>
+  -</person>
+  -<person id=”1”>
+    -<name>Ivan Petrov</name>
+     -<address>Bulgaria</address>
+ -</person>
+-</people>
 
 ● да поддържат оператора / (например “person/address” дава списък с всички адреси във файла)
 ● да поддържат оператора [] (например “person/address[0]” два адресът на първия елемент във файла)
